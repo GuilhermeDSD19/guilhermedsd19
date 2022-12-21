@@ -1,4 +1,4 @@
-## Olá! Eu sou o Guilherme Duarte 👋
+### Olá! Eu sou o Guilherme Duarte 👋
 
 <div align="center">
   <a href="https://github.com/GuilhermeDSD19">
