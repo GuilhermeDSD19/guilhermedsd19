@@ -38,11 +38,10 @@ Sinta-se livre para visitar meus [repositórios](https://github.com/GuilhermeDSD
   
 </div>
 
-## Streaks e Top Languages 💾
+## Streaks 💾
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=guilhermedsd19&theme=dracula" alt="Streak" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedsd19&layout=compact&theme=dracula" alt="Top Langs" height="200">
+  <img src="https://streak-stats.demolab.com/?user=guilhermedsd19&theme=dark" alt="Streak" height="200">
 </div>
 
 ## Contato ✉️
